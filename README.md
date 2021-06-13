@@ -1,5 +1,5 @@
 # Horoscope Generator
-> I built a random horoscope generator program. Every time a user runs the program, they can input their sign and will get a new, randomized prediction and piece of advice. To make the program truly random, the message that it outputs are made up of at least three different pieces of data.
+> I built a random horoscope generator program. Every time a user runs the program, they can input their sign and will get a new, randomized prediction and piece of advice. To make the program truly random, the message that it outputs is made up of at least three different pieces of data.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
