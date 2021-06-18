@@ -39,7 +39,7 @@ After downloading this folder (cloning the repository in your computer), go to t
 node filename.js
 
 ## Project Status
-_In progress_
+_Completed_
 
 ## Acknowledgements
 Give credit here.
